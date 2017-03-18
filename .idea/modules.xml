@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewBinding.iml" filepath="$PROJECT_DIR$/ViewBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewbinding-annotation/viewbinding-annotation.iml" filepath="$PROJECT_DIR$/viewbinding-annotation/viewbinding-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewbinding-api/viewbinding-api.iml" filepath="$PROJECT_DIR$/viewbinding-api/viewbinding-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewbinding-compiler/viewbinding-compiler.iml" filepath="$PROJECT_DIR$/viewbinding-compiler/viewbinding-compiler.iml" />
+    </modules>
+  </component>
+</project>
